@@ -1,0 +1,25 @@
+1642513390748	Rename resource 'application.properties'
+1642515371699	Rename package 'com.cms.model'
+1642516049818	Rename type 'RolyType'
+1642516225469	Delete element
+1642668578312	Delete element
+1642671331851	Rename type 'Hosp'
+1642671440993	Delete element
+1642671469521	Rename type 'Clinic'
+1642671510249	Delete element
+1642671515138	Delete element
+1642684935852	Delete element
+1642685023749	Delete element
+1642685070625	Delete element
+1642689061079	Rename resource 'NewFile.jsp'
+1642689081505	Rename resource 'home.jsp'
+1642860828991	Rename package 'com.cms.entity'
+1642860922484	Delete element
+1642860925951	Delete element
+1642860942304	Rename type 'HealthcRepository'
+1642860946883	Rename type 'Healthc'
+1642861014438	Rename resource 'index.jsp'
+1642867189279	Delete element
+1642867299733	Rename resource 'index.html'
+1642869007793	Delete element
+1642870941864	Copy file
